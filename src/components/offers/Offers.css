@@ -1,0 +1,25 @@
+@import "rsuite/dist/rsuite.css";
+
+
+.modal-dialog{
+    float: right !important;
+    margin: 0 !important;
+}
+small{
+    font-size: x-small !important;
+}
+
+#main-slider-container {
+    width: -webkit-fill-available !important;
+    height: 10% !important;
+}
+.slider-card{
+    width :150px !important;
+    height: 150px !important;
+}
+
+.slider-card-image{
+    height: 50% !important;
+}
+
+
